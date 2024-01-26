@@ -1,0 +1,31 @@
+{
+	"Demo": {
+		"methods": [
+			"TEST_SevenZip",
+			"TEST_Worker"
+		],
+		"forms": [
+			"SevenZip"
+		]
+	},
+	"SevenZip": {
+		"classes": [
+			"_CLI",
+			"SevenZip"
+		]
+	},
+	"SevenZip Controller": {
+		"classes": [
+			"_CLI_Controller",
+			"_SevenZip_Controller",
+			"_SevenZipUI_Controller"
+		]
+	},
+	"View": {
+		"classes": [
+			"_Form",
+			"SevenZipForm"
+		]
+	},
+	"trash": {}
+}
