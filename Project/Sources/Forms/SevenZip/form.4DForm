@@ -90,9 +90,9 @@
 					"sizingY": "move",
 					"sizingX": "grow"
 				},
-				"パス:": {
+				"path:": {
 					"type": "text",
-					"text": "パス:",
+					"text": "path:",
 					"top": 218,
 					"left": 183,
 					"width": 63,
@@ -145,9 +145,9 @@
 					"sizingX": "grow",
 					"sizingY": "grow"
 				},
-				"標準出力:": {
+				"stdOut:": {
 					"type": "text",
-					"text": "標準出力:",
+					"text": "stdOut:",
 					"top": 38,
 					"left": 163,
 					"width": 83,
@@ -168,9 +168,9 @@
 					"sizingY": "move",
 					"sizingX": "grow"
 				},
-				"標準エラー:": {
+				"stdErr:": {
 					"type": "text",
-					"text": "標準エラー:",
+					"text": "stdErr:",
 					"top": 128,
 					"left": 163,
 					"width": 83,
@@ -184,7 +184,7 @@
 		}
 	],
 	"method": "method.4dm",
-	"geometryStamp": 674,
+	"geometryStamp": 677,
 	"editor": {
 		"activeView": "View 1",
 		"defaultView": "View 1",

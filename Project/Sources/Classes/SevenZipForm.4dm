@@ -13,7 +13,6 @@ Class constructor
 	
 Function onLoad()
 	
-	//MARK:Formのコンテキストでインスタンス化＝Formのコンテキストでコールバック実行）
 	Form:C1466.SevenZip:=cs:C1710.SevenZip.new(cs:C1710._SevenZipUI_Controller)
 	
 	Form:C1466.toggleButtons().isProcessing(False:C215)
